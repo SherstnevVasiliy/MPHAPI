@@ -1,0 +1,2648 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Корпус метал. ЩУ-1ф/1-0-3 IP66 (310х300х150) TDM (1) SQ0905-0093",
+      "type": "Щит пластиковый",
+      "brand": "TDM",
+      "brandId": "tdm",
+      "article": "SQ0905-0093",
+      "partNumber": "13331409",
+      "rating": 1046,
+      "image": "https://www.el.ru/temp/thumbnails/all/9/9d8f7a2ee3643f52cd10ac066fbccf76.jpg",
+      "price": 2423,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 0,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 12
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Щит навесной на 2 модуля 140х59х83 IP30 с крышкой (ИЭК) (20) MKP42-N-02-30-20",
+      "type": "Щит пластиковый",
+      "brand": "IEK",
+      "brandId": "iek",
+      "article": "MKP42-N-02-30-20",
+      "partNumber": "13331404",
+      "rating": 4633,
+      "image": "https://www.el.ru/temp/thumbnails/all/d/d7682bfaab8ee073e605ee6861c2f7a9.jpg",
+      "price": 104.1,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [1, 0],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Щит навесной на 4 модуля 140х104х83 IP30 с крышкой (ИЭК) (12)",
+      "type": "Щит пластиковый",
+      "brand": "IEK",
+      "brandId": "iek",
+      "article": "MKP42-N-04-30-12",
+      "partNumber": "13331405",
+      "rating": 4466,
+      "image": "https://www.el.ru/temp/thumbnails/all/3/3ab9a193d46579ebb07ba44b5b2b1e31.jpg",
+      "price": 128.8,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Щит навесной на 6 модулей 140х136х83 IP30 с крышкой(ИЭК) (9) MKP42-N-06-30-09",
+      "type": "Щит пластиковый",
+      "brand": "IEK",
+      "brandId": "iek",
+      "article": "MKP42-N-06-30-09",
+      "partNumber": "13331406",
+      "rating": 3521,
+      "image": "https://www.el.ru/temp/thumbnails/all/d/dd11091f7d6d655295705d17fa0591aa.jpg",
+      "price": 201,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Щит пластиковый распределительный  встр. 24 мод. IP40, прозр. черная  дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-02-041",
+      "partNumber": "12793385",
+      "rating": 1130,
+      "image": "https://www.el.ru/temp/thumbnails/all/0/09d6434ad96a308ebd5a62d681fda163.jpg",
+      "price": 1618,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Щит пластиковый распределительный  встр. 36 мод. IP40, прозр. черная  дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-02-061",
+      "partNumber": "12793387",
+      "rating": 445,
+      "image": "https://www.el.ru/temp/thumbnails/all/a/a952395ff908d2e48a3826576a7ccd1e.jpg",
+      "price": 2201,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Щит пластиковый распределительный  встр. 54 мод. IP40, прозр. черная  дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-02-081",
+      "partNumber": "12793389",
+      "rating": 445,
+      "image": "https://www.el.ru/temp/thumbnails/all/e/eb405c642b8c3d8847cd8c66e8620c7c.jpg",
+      "price": 2851,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Щит пластиковый распределительный  встраиваемый 18 мод. IP40,белая дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-05-008",
+      "partNumber": "12793395",
+      "rating": 483,
+      "image": "http://el.ru/temp/thumbnails/all/1/192ddb46a66887a87d345cb681f3335f.jpg",
+      "price": 1205,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Щит пластиковый распределительный  встраиваемый 18 мод. IP40,черная дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-05-007",
+      "partNumber": "12793394",
+      "rating": 1045,
+      "image": "https://www.el.ru/temp/thumbnails/all/7/7ec1c8c2f2be085c7be0559ca28b051d.jpg",
+      "price": 1048,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    },
+    {
+      "id": 10,
+      "title": "Щит пластиковый распределительный  встраиваемый 24 мод. IP40,белая дверца Tekfor",
+      "type": "Щит пластиковый",
+      "brand": "Tekfor",
+      "brandId": "tekfor",
+      "article": "01-02-045",
+      "partNumber": "12793386",
+      "rating": 559,
+      "image": "https://www.el.ru/temp/thumbnails/all/a/a05135038d28e337501bbcf861152972.jpg",
+      "price": 1560,
+      "stock": {
+        "Wildberries": 100,
+        "Ozon": 300,
+        "Sber": 200,
+        "Yandex": 50
+      },
+      "fullness": {
+        "Wildberries": 92.8,
+        "Ozon": 88.9,
+        "Sber": 94.9,
+        "Yandex": 94.9
+      },
+      "content": {
+        "images": 5,
+        "video": 0,
+        "photo360": 0,
+        "keyWords": 0,
+        "descriptions": 832,
+        "propertys": 0
+      },
+      "status": {
+        "Wildberries": "продается",
+        "Ozon": "закончился",
+        "Sber": "не продается",
+        "Yandex": "продается"
+      },
+      "visibility": {
+        "Wildberries": 100,
+        "Ozon": 57,
+        "Sber": null,
+        "Yandex": 100
+      },
+      "prices": {
+        "retail": [2207, null, null],
+        "Wildberries": [2001, null, null],
+        "Ozon": [2800, 3600, 20],
+        "Sber": [null, null, null],
+        "Yandex": [2106, null, null]
+      },
+      "commissions": {
+        "Wildberries": [100, 110, "over"],
+        "Ozon": [560, 580, "in"],
+        "Sber": ["198-218", "200-220", null],
+        "Yandex": [168, 178, "in"]
+      },
+      "profit": {
+        "Wildberries": [57.63, 44],
+        "Ozon": [175.93, 133],
+        "Sber": null,
+        "Yandex": [33, 360]
+      },
+      "strategies": {
+        "Wildberries": "Лучшая цена",
+        "Ozon": null,
+        "Sber": "Маржа",
+        "Yandex": "Маржа"
+      },
+      "marketing": {
+        "Wildberries": 0,
+        "Ozon": 3,
+        "Sber": null,
+        "Yandex": "0"
+      },
+      "sales": {
+        "Wildberries": [12, 33],
+        "Ozon": [3, -63],
+        "Sber": [null],
+        "Yandex": [0, -100]
+      }
+    }
+  ],
+  "filters": [
+    {
+      "id": "content",
+      "params": [
+        {
+          "id": "content",
+          "name": "Контент",
+          "params": [
+            {
+              "id": "noImages",
+              "name": "Нет изображений",
+              "disabled": false
+            },
+            {
+              "id": "noVideo",
+              "name": "Нет видео",
+              "disabled": false
+            },
+            {
+              "id": "noPhoto360",
+              "name": "Нет фото 360",
+              "disabled": false
+            },
+            {
+              "id": "noKeyWords",
+              "name": "Нет ключевых слов",
+              "disabled": false
+            },
+            {
+              "id": "noDescriptions",
+              "name": "Нет описания",
+              "disabled": false
+            },
+            {
+              "id": "noParametrs",
+              "name": "Нет характеристик",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "disabled": true
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fullness",
+      "params": [
+        {
+          "id": "fullness",
+          "name": "Заполненность",
+          "params": [
+            {
+              "id": "needRequired",
+              "name": "Нужно обязательное",
+              "disabled": false
+            },
+            {
+              "id": "needDescription",
+              "name": "Нужны описания",
+              "disabled": false
+            },
+            {
+              "id": "needImages",
+              "name": "Нужны изображения",
+              "disabled": false
+            },
+            {
+              "id": "needAdditional",
+              "name": "Нужно дополнительное",
+              "disabled": false
+            },
+            {
+              "id": "filled",
+              "name": "Заполнено",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "disabled": true
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "status",
+      "params": [
+        {
+          "id": "status",
+          "name": "Статусы",
+          "params": [
+            {
+              "id": "blocked",
+              "name": "Заблокирован",
+              "disabled": false
+            },
+            {
+              "id": "endSale",
+              "name": "Снят с продажи",
+              "disabled": false
+            },
+            {
+              "id": "notSale",
+              "name": "Не продается",
+              "disabled": false
+            },
+            {
+              "id": "ended",
+              "name": "Закончился",
+              "disabled": false
+            },
+            {
+              "id": "moderation",
+              "name": "На модерации",
+              "disabled": false
+            },
+            {
+              "id": "sale",
+              "name": "Продается",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "disabled": true
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stock",
+      "params": [
+        {
+          "id": "stock",
+          "name": "Остатки",
+          "params": [
+            {
+              "id": "outStock",
+              "name": "Нет",
+              "disabled": false
+            },
+            {
+              "id": "small",
+              "name": "Мало",
+              "disabled": false
+            },
+            {
+              "id": "enough",
+              "name": "Достаточно",
+              "disabled": false
+            },
+            {
+              "id": "many",
+              "name": "Много",
+              "disabled": false
+            },
+            {
+              "id": "overStock",
+              "name": "Критически много",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visibility",
+      "params": [
+        {
+          "id": "visibility",
+          "name": "Видимость",
+          "params": [
+            {
+              "id": "low",
+              "name": "Низкая",
+              "disabled": false
+            },
+            {
+              "id": "mid",
+              "name": "Средняя",
+              "disabled": false
+            },
+            {
+              "id": "high",
+              "name": "Высокая",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prices",
+      "params": [
+        {
+          "id": "prices",
+          "name": "Цены",
+          "params": [
+            {
+              "id": "withDiscount",
+              "name": "Со скидкой",
+              "disabled": false
+            },
+            {
+              "id": "withoutDiscount",
+              "name": "Без скидки",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "сommissions",
+      "params": [
+        {
+          "id": "сommissions",
+          "name": "Комиссии",
+          "params": [
+            {
+              "id": "overThePrice",
+              "name": "Сверх цены",
+              "disabled": false
+            },
+            {
+              "id": "inThePrice",
+              "name": "В цене",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profit",
+      "params": [
+        {
+          "id": "profit",
+          "name": "Маржа",
+          "params": [
+            {
+              "id": "small",
+              "name": "Низкая",
+              "disabled": false
+            },
+            {
+              "id": "enough",
+              "name": "Средняя",
+              "disabled": false
+            },
+            {
+              "id": "many",
+              "name": "Высокая",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "strategies",
+      "params": [
+        {
+          "id": "strategies",
+          "name": "Стратегии",
+          "params": [
+            {
+              "id": "notUsed",
+              "name": "Не используется",
+              "disabled": false
+            },
+            {
+              "id": "salesVolume",
+              "name": "Объем продаж",
+              "disabled": false
+            },
+            {
+              "id": "profit",
+              "name": "Маржа",
+              "disabled": false
+            },
+            {
+              "id": "numberOfSales",
+              "name": "Количество продаж",
+              "disabled": false
+            },
+            {
+              "id": "bestPrice",
+              "name": "Лучшая цена",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marketing",
+      "params": [
+        {
+          "id": "marketing",
+          "name": "Маркетинг",
+          "params": [
+            {
+              "id": "withAds",
+              "name": "Рекламируется",
+              "disabled": false
+            },
+            {
+              "id": "noAds",
+              "name": "Без рекламы",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sales",
+      "params": [
+        {
+          "id": "sales",
+          "name": "Продажи",
+          "params": [
+            {
+              "id": "decreased",
+              "name": "Снизились",
+              "disabled": false
+            },
+            {
+              "id": "noChanges",
+              "name": "Без изменений",
+              "disabled": false
+            },
+            {
+              "id": "growUp",
+              "name": "Выросли",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orders",
+      "params": [
+        {
+          "id": "orders",
+          "name": "Заказы",
+          "params": [
+            {
+              "id": "decreased",
+              "name": "Снизились",
+              "disabled": false
+            },
+            {
+              "id": "noChanges",
+              "name": "Без изменений",
+              "disabled": false
+            },
+            {
+              "id": "growUp",
+              "name": "Выросли",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "revenue",
+      "params": [
+        {
+          "id": "revenue",
+          "name": "Выручка",
+          "params": [
+            {
+              "id": "decreased",
+              "name": "Снизилась",
+              "disabled": false
+            },
+            {
+              "id": "noChanges",
+              "name": "Без изменений",
+              "disabled": false
+            },
+            {
+              "id": "growUp",
+              "name": "Выросла",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "income",
+      "params": [
+        {
+          "id": "income",
+          "name": "Доход",
+          "params": [
+            {
+              "id": "decreased",
+              "name": "Снизился",
+              "disabled": false
+            },
+            {
+              "id": "noChanges",
+              "name": "Без изменений",
+              "disabled": false
+            },
+            {
+              "id": "growUp",
+              "name": "Вырос",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rating",
+      "params": [
+        {
+          "id": "rating",
+          "name": "Рейтинг",
+          "params": [
+            {
+              "id": "0",
+              "name": "Без рейтинга",
+              "disabled": false
+            },
+            {
+              "id": "1",
+              "name": "1",
+              "disabled": false
+            },
+            {
+              "id": "2",
+              "name": "2",
+              "disabled": false
+            },
+            {
+              "id": "3",
+              "name": "3",
+              "disabled": false
+            },
+            {
+              "id": "4",
+              "name": "4",
+              "disabled": false
+            },
+            {
+              "id": "5",
+              "name": "5",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "params": [
+        {
+          "id": "questions",
+          "name": "Вопросы",
+          "params": [
+            {
+              "id": "withQuestions",
+              "name": "С вопросами",
+              "disabled": false
+            },
+            {
+              "id": "noQuestions",
+              "name": "Без вопросов",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deficit",
+      "params": [
+        {
+          "id": "deficit",
+          "name": "Дефицит",
+          "params": [
+            {
+              "id": "deficit",
+              "name": "Дефицит",
+              "disabled": false
+            },
+            {
+              "id": "noDeficit",
+              "name": "Без дефицита",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "marketplace",
+          "name": "Маркетплейс",
+          "params": [
+            {
+              "id": "Wildberries",
+              "name": "Wildberries",
+              "disabled": false
+            },
+            {
+              "id": "Ozon",
+              "name": "Ozon",
+              "disabled": false
+            },
+            {
+              "id": "sber",
+              "name": "Сбер",
+              "disabled": false
+            },
+            {
+              "id": "ya",
+              "name": "Яндекс",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "productTypes",
+          "name": "Тип товара",
+          "params": [
+            {
+              "id": "streetLamp",
+              "name": "Светильник уличный",
+              "disabled": false
+            },
+            {
+              "id": "taimer",
+              "name": "Таймер",
+              "disabled": false
+            },
+            {
+              "id": "tester",
+              "name": "тестер",
+              "disabled": false
+            },
+            {
+              "id": "plasticPanel",
+              "name": "Щит пластиковый",
+              "disabled": false
+            }
+          ]
+        },
+        {
+          "id": "brandId",
+          "name": "Бренд",
+          "params": [
+            {
+              "id": "iek",
+              "name": "IEK",
+              "disabled": false
+            },
+            {
+              "id": "se",
+              "name": "Schneider Electric",
+              "checked": true,
+              "disabled": false
+            },
+            {
+              "id": "tekfor",
+              "name": "Tekfor",
+              "disabled": false
+            },
+            {
+              "id": "tdm",
+              "name": "TDM",
+              "disabled": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
